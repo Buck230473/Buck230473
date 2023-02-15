@@ -15,6 +15,6 @@
 * _Python_ | _SQL_ | _Django_ | _NLP_ | _HTML_ | _CSS_ | _Bootstrap_ | _JavaScript_ | _jQuery_ | _MongoDB_ | _GitHub_ | _React.js_ | _Node.js_ | _Express.js_
 
 ## Other links
-[LinkedIn](linkedin.com/in/chris-daniel-dev)
+[LinkedIn](https://www.linkedin.com/in/chris-daniel-dev/)
 
-[HyperionDev Portfolio](hyperiondev.com/portfolio/116019/)
+[HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/116019/)
